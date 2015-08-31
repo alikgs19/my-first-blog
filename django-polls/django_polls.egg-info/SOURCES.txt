@@ -1,0 +1,22 @@
+LICENSE
+MANIFEST.in
+README.rst
+setup.py
+django_polls.egg-info/PKG-INFO
+django_polls.egg-info/SOURCES.txt
+django_polls.egg-info/dependency_links.txt
+django_polls.egg-info/top_level.txt
+polls/__init__.py
+polls/admin.py
+polls/models.py
+polls/test.py
+polls/tests.py
+polls/urls.py
+polls/views.py
+polls/static/polls/style.css
+polls/templates/polls/Untitled Document
+polls/templates/polls/detail.html
+polls/templates/polls/index.html
+polls/templates/polls/results.html
+polls/templates/polls/style.css
+polls/templates/polls/test.py
